@@ -1,8 +1,8 @@
 /*********************************************************************
-** Program Filename: bats.cpp
+** Program Filename: game.cpp
 ** Author: Aidan Caughey
 ** Date: 05/24/23
-** Description: Contains Bats class functions
+** Description: Contains game class functions
 ** Input: A bat object is created
 ** Output: Bat object is created properly
 *********************************************************************/
